@@ -9,3 +9,8 @@
 <!--##### (comment)-->
 
 ### [Day 1](/Day%201/Day1.md)
+
+### Day 2: November 18, 2022 
+<!--##### (comment)-->
+
+### [Day 2](/Day%202/Day2.md)
