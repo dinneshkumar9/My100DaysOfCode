@@ -14,3 +14,8 @@
 <!--##### (comment)-->
 
 ### [Day 2](/Day%202/Day2.md)
+
+### Day 3: November 19, 2022 
+<!--##### (comment)-->
+
+### [Day 3](/Day%203/Day3.md)
