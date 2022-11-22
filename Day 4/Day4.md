@@ -1,4 +1,4 @@
-**Today's Progress**: Build a Survey Form project, which was the first challenge of FreeCodeCamp.Html and css was used to write the code for this project.
+**Today's Progress**: Built a Survey Form project, which was the first challenge of FreeCodeCamp.Html and css was used to write the code for this project.
 
 **Thoughts:** Feels good to complete 1st project of the course , 4 more to go. today is sunday and it was spent by coding and reading.
 

@@ -24,4 +24,5 @@
 ### [Day 5: November 21, 2022](/Day%205/Day5.md)
 <!--##### (comment)-->
 
-
+### [Day 6: November 22, 2022](/Day%206/Day6.md)
+<!--##### (comment)-->
