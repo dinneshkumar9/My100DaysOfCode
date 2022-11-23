@@ -26,3 +26,6 @@
 
 ### [Day 6: November 22, 2022](/Day%206/Day6.md)
 <!--##### (comment)-->
+
+### [Day 7: November 23, 2022](/Day%207/Day7.md)
+<!--##### (comment)-->
