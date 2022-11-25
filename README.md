@@ -30,5 +30,8 @@
 ### [Day 7: November 23, 2022](/Day%207/Day7.md)
 <!--##### (comment)-->
 
-### [Day 7: November 24, 2022](/Day%208/Day8.md)
+### [Day 8: November 24, 2022](/Day%208/Day8.md)
+<!--##### (comment)-->
+
+### [Day 9: November 25, 2022](/Day%209/Day9.md)
 <!--##### (comment)-->
