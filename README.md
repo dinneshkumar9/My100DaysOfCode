@@ -32,3 +32,6 @@
 
 ### [Day 10: November 26, 2022](/Day%2010/Day10.md)
 <!--##### (comment)-->
+
+### [Day 11: November 27, 2022](/Day%2011/Day11)
+<!--##### (comment)-->
