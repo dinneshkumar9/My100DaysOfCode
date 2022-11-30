@@ -41,3 +41,6 @@
 
 ### [Day 13: November 29, 2022](/Day%2013/Day13.md)
 <!--##### (comment)-->
+
+### [Day 14: November 30, 2022](/Day%2014/Day14.md)
+<!--##### (comment)-->
