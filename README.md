@@ -53,3 +53,6 @@
 
 ### [Day 17: December 03, 2022](/Day%2017/Day17.md)
 <!--##### (comment)-->
+
+### [Day 18: December 04, 2022](/Day%2017/Day17.md)
+<!--##### (comment)-->
